@@ -1,8 +1,8 @@
 # KVE
 KVE is a simple 3D voxel engine written in C++ that allows for pathfinding from point A to point B in a 3D array of any size in O(n³) time
 
+<img width="1400" height="1178" alt="изображение" src="https://github.com/user-attachments/assets/b3216850-d34d-429e-b5df-7a2f846d9097" />
 
-<img width="1536" height="3978" alt="изображение" src="https://github.com/user-attachments/assets/17301cbf-2948-41e3-91c9-54bd16c05587" />
 
 This project is a simple C++ voxel engine featuring a pathfinding algorithm designed to navigate from a starting point within a 3D space. The algorithm operates with $O(n^3)$ complexity.
 
@@ -45,11 +45,16 @@ All functions, key variables, and parameters in the code are documented with com
 
 # The algorithm's mathematical clumsiness
 
-<img width="1536" height="3978" alt="и" src="https://github.com/user-attachments/assets/dffe63aa-e67b-45f8-b6f2-a4942e00067b" />
+<img width="507" height="408" alt="изображение" src="https://github.com/user-attachments/assets/727292ca-118d-423b-900b-586f0eb121da" />
 
 Right now, the algorithm is like moving a pawn in 3D chess. If the agent hits a wall—as shown in the image—the algorithm outputs a message stating that the agent is stuck. Of course, this will be fixed soon, though there is something oddly cool about the algorithm feeling like a game of Russian roulette: will the agent crash into a wall or not? In terms of timing, the algorithm is similar to Floyd's algorithm. I plan to rewrite the algorithm in pure C just for the fun of it, though that isn't set in stone. Naturally, the code will be optimized and improved. I hope you’ll at least give this algorithm a try. Please.
 
-<img width="1536" height="3978" alt="з" src="https://github.com/user-attachments/assets/c456eaa6-0495-451f-8b16-12b4a8745d1d" />
+<img width="512" height="404" alt="изображение" src="https://github.com/user-attachments/assets/261252f5-eba7-4387-9035-f8cf1f85edd2" />
+
+To me, my algorithm looks a lot like Floyd's algorithm—even though I actually recalled the latter completely by chance. The only difference is that mine operates in three-dimensional space. I’ve attached a screenshot below of the specific 3D chess game with pawns that I’m referring to. I hope my analogy makes sense to you.
+
+<img width="1395" height="1052" alt="изображение" src="https://github.com/user-attachments/assets/6f6cf098-201e-43f8-85a4-9cece6e6a8ef" />
+
 
 License
 
