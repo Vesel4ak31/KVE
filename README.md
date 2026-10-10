@@ -41,13 +41,13 @@
 
 <img width="1897" height="605" alt="изображение" src="https://github.com/user-attachments/assets/c1c1095c-efc4-4cfe-b372-b67d19c2f2ae" />
 
-## All functions, key variables, and parameters in the code are documented with comments. It is important to consult them when making changes. The algorithm itself is quite compact, so please be careful not to break anything when modifying the code; I would be very upset if your code failed to work or—heaven forbid—failed to compile.
+## All functions, key variables, and parameters in the code are documented with comments. It is important to consult them when making changes. The algorithm itself is quite compact, so please be careful not to break anything when modifying the code; I would be very upset if your code failed to work or-heaven forbid-failed to compile.
 
 # The algorithm's mathematical clumsiness
 
 <img width="507" height="408" alt="изображение" src="https://github.com/user-attachments/assets/727292ca-118d-423b-900b-586f0eb121da" />
 
-## Right now, the algorithm is like moving a pawn in 3D chess. If the agent hits a wall—as shown in the image—the algorithm outputs a message stating that the agent is stuck. Of course, this will be fixed soon, though there is something oddly cool about the algorithm feeling like a game of Russian roulette: will the agent crash into a wall or not? In terms of timing, the algorithm is similar to Floyd's algorithm. I plan to rewrite the algorithm in pure C just for the fun of it, though that isn't set in stone. Naturally, the code will be optimized and improved. I hope you’ll at least give this algorithm a try. Please.
+## Right now, the algorithm is like moving a pawn in 3D chess. If the agent hits a wall—as shown in the image-the algorithm outputs a message stating that the agent is stuck. Of course, this will be fixed soon, though there is something oddly cool about the algorithm feeling like a game of Russian roulette: will the agent crash into a wall or not? In terms of timing, the algorithm is similar to Floyd's algorithm. I plan to rewrite the algorithm in pure C just for the fun of it, though that isn't set in stone. Naturally, the code will be optimized and improved. I hope you’ll at least give this algorithm a try. Please.
 
 <img width="512" height="404" alt="изображение" src="https://github.com/user-attachments/assets/261252f5-eba7-4387-9035-f8cf1f85edd2" />
 
