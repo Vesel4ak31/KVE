@@ -51,7 +51,7 @@
 
 <img width="512" height="404" alt="изображение" src="https://github.com/user-attachments/assets/261252f5-eba7-4387-9035-f8cf1f85edd2" />
 
-## To me, my algorithm looks a lot like Floyd's algorithm—even though I actually recalled the latter completely by chance. The only difference is that mine operates in three-dimensional space. I’ve attached a screenshot below of the specific 3D chess game with pawns that I’m referring to. I hope my analogy makes sense to you.
+## To me, my algorithm looks a lot like Floyd's algorithm-even though I actually recalled the latter completely by chance. The only difference is that mine operates in three-dimensional space. I’ve attached a screenshot below of the specific 3D chess game with pawns that I’m referring to. I hope my analogy makes sense to you.
 
 <img width="1395" height="1052" alt="изображение" src="https://github.com/user-attachments/assets/6f6cf098-201e-43f8-85a4-9cece6e6a8ef" />
 
