@@ -4,7 +4,7 @@ KVE is a simple 3D voxel engine written in C++ that allows for pathfinding from 
 <img width="1400" height="1178" alt="изображение" src="https://github.com/user-attachments/assets/b3216850-d34d-429e-b5df-7a2f846d9097" />
 
 
-This project is a simple C++ voxel engine featuring a pathfinding algorithm designed to navigate from a starting point within a 3D space. The algorithm operates with $O(n^3)$ complexity.
+## This project is a simple C++ voxel engine featuring a pathfinding algorithm designed to navigate from a starting point within a 3D space. The algorithm operates with $O(n^3)$ complexity.
 
 # The SIZE Parameter
 
